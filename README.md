@@ -1,1 +1,1 @@
-# Modelos-de-programaci-n
+# Modelos-de-programacion
