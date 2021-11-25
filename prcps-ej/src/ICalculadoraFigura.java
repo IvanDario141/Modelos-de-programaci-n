@@ -1,5 +1,5 @@
 
 public interface ICalculadoraFigura {
-    int calcularArea();
-    int calcularPerimetro();
+    float calcularArea();
+    float calcularPerimetro();
 }

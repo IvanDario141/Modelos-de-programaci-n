@@ -1,7 +1,7 @@
 
 public class Figura {
     protected int numeroLados;
-    protected int[] lados;
+    protected float[] lados;
     
     public Figura(int n){
         numeroLados = n;
@@ -11,7 +11,7 @@ public class Figura {
         return numeroLados;
     }
     
-    public int[] getLados(){
+    public float[] getLados(){
         return lados;
     }
     
